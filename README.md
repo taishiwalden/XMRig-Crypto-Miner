@@ -17,7 +17,7 @@ Once you've finished editing the config.json file, try running the executable fi
 <img width="567" alt="Screen Shot 2021-11-19 at 5 22 02 PM" src="https://user-images.githubusercontent.com/75241036/142709282-237b640b-ed5b-4b40-8aba-fdb52a996584.png">
 
 ## Is it worth it?
-The idea of mining cryptocurrency passively with your laptop sounds interesting, but it wasn't worth it. It took a considerable amount of energy to mine (13 watts, whereas Idle power consumption is rated at 6.8 watts), and the rate at which you accumulate crypto is surprisingly slow. After running the algorithm for approximately 24 hours, I only mined a total of 0.02564462 MANA (Decentraland Coin), which is priced at $3.74. This means that in 24 hours I only mined roughly 1/10th of a penny in a day. 
+The idea of mining cryptocurrency passively with your laptop sounds interesting, but it wasn't worth it. It took a considerable amount of energy to mine (17 watts, whereas Idle power consumption is rated at 6.8 watts), and the rate at which you accumulate crypto is surprisingly slow. After running the algorithm for approximately 24 hours, I only mined a total of 0.02564462 MANA (Decentraland Coin), which is priced at $3.74. This means that in 24 hours I only mined roughly 1/10th of a penny in a day. 
 
 <img width="733" alt="Screen Shot 2021-11-21 at 2 22 41 PM" src="https://user-images.githubusercontent.com/75241036/142781245-058458bc-b8cf-4b2f-8a08-a6eca6d058ce.png">
 
